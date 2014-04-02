@@ -13,4 +13,6 @@ RedisGetterSetterUtilTests.java some getter setter sample
 
 http://demirelozgur.wordpress.com/
 
+demirelozgur@gmail.com
+
 
