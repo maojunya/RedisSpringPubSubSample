@@ -19,7 +19,7 @@ public class RedisQueueTests {
 
     @Test
     public void redisPublishMessageTest(){
-       for (int i=0;i<120000;i++){
+       for (int i=0;i<1200;i++){
            redisPublishMessage.publish("messaj"+i);
        }
     }
