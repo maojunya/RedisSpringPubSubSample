@@ -11,4 +11,6 @@ Test
 RedisQueueTests.java   pub/sub sample
 RedisGetterSetterUtilTests.java some getter setter sample
 
+http://demirelozgur.wordpress.com/
+
 
